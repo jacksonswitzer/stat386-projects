@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Test Post"
+date:   2022-09-12
+author: Jackson Switzer
+description: Figuring out how to make a post
+image: /assets/images/blog-image.jpg
+---
+
+I'm just learning how to enter text and how it looks in the blog when I'm finished.
+
+I put two spaces before this line for a new line, because I think that's how markdown works.  
+The end of the previous line had two spaces and a single newline.
+The end of the previous line had no spaces and a single newline.
+
+Don't worry, Dr. Tass, I'll delete this post once I start using this blog as an actual display of my work.
