@@ -4,7 +4,7 @@ title:  "Get This Stuck in Your Head Forever: Basic Plotting in R"
 date:   2022-09-26
 author: Jackson Switzer
 description: Explaining the basics of how to make plots in R (and encouraging you to change the way you think about learning programming)
-image: /assets/images/post1titlepic.png
+image: /assets/images/post1titlepicattempt2.png
 ---
 
 ## The Why
