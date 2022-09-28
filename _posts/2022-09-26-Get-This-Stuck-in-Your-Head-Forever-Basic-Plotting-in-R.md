@@ -5,7 +5,7 @@ date:   2022-09-26
 author: Jackson Switzer
 description: Explaining the basics of how to make plots in R (and encouraging you to change the way you think about learning programming)
 headline: Idk what the headline is but maybe it's this?
-image: /assets/images/post1titlepicattempt2.png
+image: /assets/images/titlepicattempt3.png
 ---
 
 ## The Why
