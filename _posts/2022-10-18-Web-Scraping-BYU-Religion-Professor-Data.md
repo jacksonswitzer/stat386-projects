@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Web Scraping BYU Religion Faculty Data"
-date:   2022-10-18
+title: "Web Scraping BYU Religion Faculty Data"
+date: 2022-10-17
 author: Jackson Switzer
 description: Pulling contact info, job titles, and Rate My Professor ratings about all present and past faculty and staff from the BYU Religious Education Department
 image: /assets/images/bookofmormon.png
@@ -90,3 +90,7 @@ Once you have `rmp_searches`, you can find each professor's rating inside the li
 ## Conclusion
 
 There's a lot of potential for this project. You could adapt it to any department at any university. Each university will have a differently formatted website, so that part would take some adjusting, but Rate My Professors the same website no matter the university, so you'd only have to change the URL. Give it a try!
+
+Next time, I'll analyze whether professors' ranks (full professor, associate professor, or adjunct) or teaching area are correlated with their Rate My Professors rating. (My hunch, based on experience, is that full professors will have a lower average rating than those of lower rank. When they've been around too long, they get boring.)
+
+Here's the link to my GitHub repo containing all the code for this project: https://github.com/jacksonswitzer/hw5
