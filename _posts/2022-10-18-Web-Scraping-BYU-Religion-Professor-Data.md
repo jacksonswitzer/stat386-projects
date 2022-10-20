@@ -93,4 +93,4 @@ There's a lot of potential for this project. You could adapt it to any departmen
 
 Next time, I'll analyze whether professors' ranks (full professor, associate professor, or adjunct) or teaching area are correlated with their Rate My Professors rating. (My hunch, based on experience, is that full professors will have a lower average rating than those of lower rank. When they've been around too long, they get boring.)
 
-Here's the link to my GitHub repo containing all the code for this project: https://github.com/jacksonswitzer/hw5
+Here's the link to my GitHub repo containing all the code for this project: [https://github.com/jacksonswitzer/hw5](https://github.com/jacksonswitzer/hw5)
