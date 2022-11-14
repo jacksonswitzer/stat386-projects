@@ -1,0 +1,24 @@
+---
+layout: post
+title:  "Exploring Avocados"
+date:   2022-11-14
+author: Jackson Switzer
+description: Exploratory Data Analysis of a dataset about prices and sales of avocados
+image: /assets/images/avocadopic.jpg
+---
+
+## Introduction (and a due apology)
+
+First, I need to apologize. Fans of the blog will know I promised an analysis of the Rate My Professors data of BYU religion faculty. The issue is, Rate My Professors updated their code since I wrote my webscraping blog, and my code no longer works. I should have saved the dataframe, I know. But I didn't. After an hour fiddling around, I decided it wasn't worth the time to keep trying to get it working again. So this exploratory data analysis, unfortunately, is about something else.
+
+I promise this analysis is ethical, just as the collection of my previous dataset was. I downloaded the data from [here](https://www.kaggle.com/datasets/neuromusic/avocado-prices). It's a public Kaggle dataset. My title picture is also available for public use, taken from Wikimedia Commons.
+
+The purpose of today's post is to get an overall feel for the sales of avocados in the United States over the past few years.
+
+## Distribution of Average Weekly Prices
+
+
+## Average Sales by Region
+
+
+## Average Price Over Time
