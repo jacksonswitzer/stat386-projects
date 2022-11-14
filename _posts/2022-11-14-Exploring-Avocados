@@ -54,4 +54,4 @@ We see in this plot that the price hasn't followed one simple, steady progressio
 
 ## Conclusion
 
-An EDA like this helps us understand the composition of large datasets and guides our research questions. Now millenials know which regions have the highest avocado consumption, so they can move to a place which helps them associate with like-minded avocado lovers. For any questions about the code, check out the GitHub reposity; if you have any questions you'd like answered from the data, let me know in the comments, and you can look forward to it in a future post.
+An EDA like this helps us understand the composition of large datasets and guides our research questions. Now millenials know which regions have the highest avocado consumption, so they can move to a place which helps them associate with like-minded avocado lovers. For any questions about the code, check out [the GitHub repository](https://github.com/jacksonswitzer/avocado_eda); if you have any questions you'd like answered from the data, let me know in the comments, and you can look forward to it in a future post.
