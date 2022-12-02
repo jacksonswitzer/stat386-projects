@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
  Ideas and projects I've worked on as a BYU stats major.
 baseurl: "/statistically-insignificant" # keep this the same or change it to the name of the repository 
 url: "https://jacksonswitzer.github.io" #  change this to "https://<your-github-username>.github.io"
-image: "assets/images/fearinterest2.png"
+image: "assets/images/donezo.png"
 author: Jackson Switzer
 copyright: JKSN # Your initials or what you want the copyright to be.  Leave empty for no copyright
 
