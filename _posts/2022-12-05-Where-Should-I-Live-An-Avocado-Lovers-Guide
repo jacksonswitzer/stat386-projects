@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Where Should I Live? An Avocado Lover's Guide"
+date: 2022-12-05
+author: Jackson Switzer
+description: Avocado prices vary significantly over time, but even more in different regions. If you want to live somewhere where avocados are cheap, this post will show you the best regions to choose (and, for comparison, the most expensive region).
+image: /assets/images/us-outline-map.jpg
+---
+
+This project began with a conversation I had with my sister and her roommate a few weeks ago. They're twenty years old and they love avocado toast, the Gen Z snack of choice. One evening, as both munched away on their favorite snack, I ventured to say avocado toast was overrated. They looked at me in disgust and adamantly disagreed, going so far as to say that wherever they live as independent adults, it'll have to have cheap avocados to fuel their obsession. That's where my research question was born: Where **is** the best place to live, if avocados are so important to you?
+
+I set out to find a suitable dataset to answer the question, and found [this one](https://www.kaggle.com/datasets/neuromusic/avocado-prices). It's a record of the average weekly price of avocados by U.S. region, defined by proximity to major urban centers, from the start of 2015 through March 2018. After exploring it a bit (see my [previous post](https://jacksonswitzer.github.io/statistically-insignificant/2022/11/13/Exploring-Avocados.html)), I made the following graphic to summarize my findings. First, I averaged the prices across the whole timeframe to find out which regions had the cheapest avocados overall. Then I made a plot of monthly average avocado prices, displaying only the region with the most expensive avocados on average and the four regions with the cheapest ones. This lets prospective avocado-loving homebuyers see the four best options of places to live, and it allows them to see how these regions differ from the most expensive region.
+
+For questions about implementation, see [the GitHub repository](https://github.com/jacksonswitzer/avocado_eda/tree/master) for this project.
+
+![Test Image](https://raw.githubusercontent.com/esnt/stat386-projects/main/assets/images/image5.jpg)
