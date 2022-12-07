@@ -4,10 +4,10 @@ title: "Where Should I Live? An Avocado Lover's Guide"
 date: 2022-12-05
 author: Jackson Switzer
 description: Avocado prices vary significantly over time and by region. If you want to live somewhere where avocados are cheap, this post will show you the best regions to choose and how avocado prices fluctuated in those regions over a three-year period (and, for comparison, in the region with the most expensive avocados).
-image: /assets/images/us-outline-map.jpg
+image: /assets/images/us-outline-map.png
 ---
 
-This project began with a conversation I had with my sister and her roommate a few weeks ago. They're twenty years old and they love avocado toast, the Gen Z snack of choice. One evening, as both munched away on their favorite snack, I ventured to say avocado toast was overrated. They looked at me in disgust and adamantly disagreed, going so far as to say that wherever they live as independent adults, the avocados will have to be cheap, in order to fuel their obsession. That's where my research question was born: Where **is** the best place to live, if avocados are so important to you?
+This project began with a conversation I had with my sister and her roommate a few weeks ago. They're twenty years old and they love avocado toast, the Gen Z snack of choice. One evening, as both munched away on their favorite snack, I ventured to say avocado toast was overrated. They looked at me in disgust and adamantly disagreed, going so far as to say that wherever they live as independent adults, the avocados will have to be cheap, in order to fuel their obsession. That's where my research question was born: Where *is* the best place to live, if avocados are so important to you?
 
 I set out to find a suitable dataset to answer the question, and found [this one](https://www.kaggle.com/datasets/neuromusic/avocado-prices). It's a record of the average weekly price of avocados by U.S. region, defined by proximity to major urban centers, from the start of 2015 through March 2018. I began with some exploratory data analysis, getting a feel for the data--how much prices varied, what the interesting features were, and so on. The code and explanations for that analysis are in this [previous post](https://jacksonswitzer.github.io/statistically-insignificant/2022/11/13/Exploring-Avocados.html)).
 
