@@ -21,6 +21,6 @@ After understanding and visualizing the data, I determined that I needed a simpl
 
 ### The Takeaway
 
-So wbere is the avocado lover's paradise? These data suggest that for my sister, her roommate, or anyone else with similar tastes, the Houston area is your best bet, closely followed by Dallas/Fort Worth, Cincinnati/Dayton, and Nashville. As long as avocado prices continue to follow the trends they followed a few years ago, that's where you'll most likely find the cheapest avocados.
+So where is the avocado lover's paradise? These data suggest that for my sister, her roommate, or anyone else with similar tastes, the Houston area is your best bet, closely followed by Dallas/Fort Worth, Cincinnati/Dayton, and Nashville. As long as avocado prices continue to follow the trends they followed a few years ago, that's where you'll find the cheapest avocados.
 
 For questions about implementation, see [the GitHub repository](https://github.com/jacksonswitzer/avocado_eda/tree/master) for this project, or feel free to ask in a comment. Thanks for reading!
