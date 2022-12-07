@@ -15,4 +15,4 @@ After understanding and visualizing the data, I determined that I needed a simpl
 
 For questions about implementation, see [the GitHub repository](https://github.com/jacksonswitzer/avocado_eda/tree/master) for this project. Thanks for reading!
 
-![Test Image](https://raw.githubusercontent.com/jacksonswitzer/statistically-insignificant/main/assets/images/us-outline-map.jpg)
+![Test Image](https://raw.githubusercontent.com/jacksonswitzer/statistically-insignificant/main/assets/images/datastory.png)
