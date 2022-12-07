@@ -11,6 +11,6 @@ This project began with a conversation I had with my sister and her roommate a f
 
 I set out to find a suitable dataset to answer the question, and found [this one](https://www.kaggle.com/datasets/neuromusic/avocado-prices). It's a record of the average weekly price of avocados by U.S. region, defined by proximity to major urban centers, from the start of 2015 through March 2018. After exploring it a bit (see my [previous post](https://jacksonswitzer.github.io/statistically-insignificant/2022/11/13/Exploring-Avocados.html)), I made the following graphic to summarize my findings. First, I averaged the prices across the whole timeframe to find out which regions had the cheapest avocados overall. Then I made a plot of monthly average avocado prices, displaying only the region with the most expensive avocados on average and the four regions with the cheapest ones. This lets prospective avocado-loving homebuyers see the four best options of places to live, and it allows them to see how these regions differ from the most expensive region.
 
-For questions about implementation, see [the GitHub repository](https://github.com/jacksonswitzer/avocado_eda/tree/master) for this project.
+The graphic I created is below. For questions about implementation, see [the GitHub repository](https://github.com/jacksonswitzer/avocado_eda/tree/master) for this project.
 
-![Test Image](https://raw.githubusercontent.com/esnt/stat386-projects/main/assets/images/image5.jpg)
+![Test Image](https://raw.githubusercontent.com/jacksonswitzer/statistically-insignificant/main/assets/images/us-outline-map.jpg)
